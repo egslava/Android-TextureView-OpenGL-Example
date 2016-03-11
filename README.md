@@ -1,7 +1,7 @@
 # Android TextureView OpenGL ES 2.0 Example
 It's a very simple example of using OpenGL ES 2.0 on Android platform. It uses TextureView for good integration with 
 system. The example written in Kotlin and contains about 80 lines of code (with context creation, etc). So it's very 
-simple sample for introducing in OpenGL in Android.
+simple sample for introducing in OpenGL in Android. If it's too complex for you - you can see [a bit easier example](https://github.com/egslava/example-android-opengl-textureview-easy).
 
 It has been tested with and without "Don't keep activities" mode on Nexus 5.  The main code is here:
 ```Kotlin
